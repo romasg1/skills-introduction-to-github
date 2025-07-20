@@ -25,5 +25,6 @@ void test(void)
 int main(void)
 {
   test();
+  printf("Zkousim update 1");
   return 0;
 }
