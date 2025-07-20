@@ -1,7 +1,7 @@
 /*
- * Projekt:
- * Autor:
- * Datum:
+ * Projekt: zkusebni projekt gitHub poprvé
+ * Autor: Roman Grmela
+ * Datum: 20/7 2025
  */
 
 #include "gvid.h"       // par drobnosti pro zjednoduseni prace
