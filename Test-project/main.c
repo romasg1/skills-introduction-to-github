@@ -25,6 +25,7 @@ void test(void)
 int main(void)
 {
   test();
-  printf("Zkousim update 1");
+  printf("Zkousim update 1\n");
+  printf("Update 2");
   return 0;
 }
