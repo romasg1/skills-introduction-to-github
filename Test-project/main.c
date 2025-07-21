@@ -32,6 +32,7 @@ int main(void)
   printf("Update 5\n");
   printf("Update 6\n");
   printf("Update 7\n");
-  printf("8");
+  printf("8\n");
+  printf("9\n");
   return 0;
 }
