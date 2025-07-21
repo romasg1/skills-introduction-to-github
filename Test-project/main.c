@@ -25,15 +25,6 @@ void test(void)
 int main(void)
 {
   test();
-  printf("Zkousim update 1\n");
-  printf("Update 2\n");
-  printf("Update 3\n");
-  printf("Update 4\n");
-  printf("Update 5\n");
-  printf("Update 6\n");
-  printf("Update 7\n");
-  printf("8\n");
-  printf("9\n");
-  printf("10\n");
+  printf("a");
   return 0;
 }
