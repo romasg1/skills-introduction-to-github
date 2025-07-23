@@ -25,7 +25,7 @@ void test(void)
 int main(void)
 {
   test();
-  printf("a b c d");
+  printf("a b c d e");
 
   return 0;
 }
