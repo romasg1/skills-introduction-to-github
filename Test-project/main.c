@@ -25,7 +25,7 @@ void test(void)
 int main(void)
 {
   test();
-  printf("Na granny se divat nebudeme!!!!");
+  printf("good update-1");
 
   return 0;
 }
