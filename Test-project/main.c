@@ -25,7 +25,8 @@ void test(void)
 int main(void)
 {
   test();
-  printf("good update-1");
+  printf("good update-1\n");
+  printf("Pull request try");
 
   return 0;
 }
