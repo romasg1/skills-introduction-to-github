@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1753441011 source:c:\users\rgrme\onedrive\dokumenty\github\skills-introduction-to-github\test-project\main.c
+	"gvid.h"
+	<stdio.h>
+	<stdlib.h>
+
+1753039904 c:\users\rgrme\onedrive\dokumenty\github\skills-introduction-to-github\test-project\gvid.h
+
