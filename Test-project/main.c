@@ -30,7 +30,5 @@ int main(void)
 
   printf("Adela je moje sestra");
 
-  bruh
-
   return 0;
 }
