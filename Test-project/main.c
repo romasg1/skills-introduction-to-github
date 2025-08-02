@@ -26,7 +26,9 @@ int main(void)
 {
   test();
   printf("good update-1\n");
-  printf("Pull request try");
+  printf("Pull request try\n");
+
+  printf("Adela je moje sestra");
 
   return 0;
 }
