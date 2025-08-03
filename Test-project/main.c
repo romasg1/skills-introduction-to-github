@@ -32,7 +32,5 @@ int main(void)
 
   printf("Good");
 
-  fail
-
   return 0;
 }
