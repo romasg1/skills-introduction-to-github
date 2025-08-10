@@ -32,5 +32,7 @@ int main(void)
 
   printf("Good");
 
+  printf("Good2");
+
   return 0;
 }
