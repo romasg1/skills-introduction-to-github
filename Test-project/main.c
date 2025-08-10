@@ -34,7 +34,5 @@ int main(void)
 
   printf("Good2");
 
-  fail
-
   return 0;
 }
