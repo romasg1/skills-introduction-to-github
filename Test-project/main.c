@@ -36,7 +36,5 @@ int main(void)
 
   printf("Pullreq.");
 
-  bad!!
-
   return 0;
 }
