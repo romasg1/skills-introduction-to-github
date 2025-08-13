@@ -34,7 +34,7 @@ int main(void)
 
   printf("Good2");
 
-  printf("Pullreq.");
+  printf("Pullreqest try");
 
   return 0;
 }
