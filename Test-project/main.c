@@ -38,5 +38,7 @@ int main(void)
 
   printf("Hell yeaaaaaaaaaa");
 
+  fail in main
+
   return 0;
 }
