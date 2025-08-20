@@ -28,15 +28,14 @@ int main(void)
   printf("good update-1\n");
   printf("Pull request try\n");
 
-  printf("Adela je moje sestra");
+  printf("Adela je moje sestra\n");
 
-  printf("Good");
+  printf("Good\n");
 
-  printf("Good2");
+  printf("Good2\n");
 
-  printf("Pullreqest try");
+  printf("Pullreqest try\n");
 
-  printf("Hell yeaaaaaaaaaa");
-
+  printf("Hell yeaaaaaaaaaa\n");
   return 0;
 }
