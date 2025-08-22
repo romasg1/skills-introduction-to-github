@@ -39,5 +39,7 @@ int main(void)
   printf("Hell yeaaaaaaaaaa\n");
 
   printf("Cau cidis\n");
+
+  printf("----------------------------\n");
   return 0;
 }
