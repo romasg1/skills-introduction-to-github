@@ -43,8 +43,5 @@ int main(void)
   printf("----------------------------\n");
 
   printf("Good");
-
-
-  fail
   return 0;
 }
