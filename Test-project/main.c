@@ -41,5 +41,7 @@ int main(void)
   printf("Cau cidis\n");
 
   printf("----------------------------\n");
+
+  printf("Good");
   return 0;
 }
