@@ -43,5 +43,7 @@ int main(void)
   printf("----------------------------\n");
 
   printf("Good");
+
+  printf("PR");
   return 0;
 }
