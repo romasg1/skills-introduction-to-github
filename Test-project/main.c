@@ -47,5 +47,7 @@ int main(void)
   printf("PR");
 
   printf("Update in new branch...");
+
+  printf("ahoj");
   return 0;
 }
